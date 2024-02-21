@@ -1,14 +1,14 @@
 body {
-  background-color: rgb(146 205 235);
+  background-color: #92cdeb;
 }
 
 h1 {
-  background-color: rgb(249 136 76);
+  background-color: #f9884c;
   color: hsl(0% 0% 0%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(255 244 244);
+  background-color: #fff4f4;
 }
